@@ -4,9 +4,9 @@
 #
 #Parses the output of mftdump.exe from the Standard Format to bodyfile format
 #Grab mftdump.exe from #http://malware-hunters.net/all-downloads/
-#Test with version 2012-09-13 MFTDump V.1.3.0
+#Tested with version 2012-09-13 MFTDump V.1.3.0
 #
-#First, create mftdump downloaded from malware-hunters using the syntax:
+#First, create and mftdump output file with mftdump.exe downloaded from malware-hunters using the syntax:
 #	mftdump.exe C:/path/to/$mft /o C:/path/to/mft_output.txt
 #
 #Then run this tool over the mft_output.txt to create a bodyfile
