@@ -11,7 +11,15 @@
 #
 #Then run this tool over the mft_output.txt to create a bodyfile
 #	parse_mftdump.py C:/path/to/mft_output.txt >> C:/path/to/bodyfile.txt
-
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You can view the GNU General Public License at <http://www.gnu.org/licenses/>
+#
+# Use at your own risk!
 import csv
 import time
 import calendar
