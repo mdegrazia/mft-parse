@@ -1,5 +1,4 @@
 # mft-parse
-Tool to parse the output of MFTDump.exe to bodyfile format
 Parses the output of mftdump.exe from the Standard Format to bodyfile format
 
 Grab mftdump.exe from #http://malware-hunters.net/all-downloads/
